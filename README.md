@@ -4,9 +4,6 @@
 <!-- 타이핑 애니메이션 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Flutter+%26+Dart+Lover💙;Mobile+App+Developer📱;Welcome+to+my+GitHub!👋)](https://git.io/typing-svg)
 
-## 👨‍💻Who am I
-
-안녕하세요! 크로스플랫폼 앱과 Android 네이티브 개발 모두 가능한 모바일 앱 개발자입니다. <br>
 
 <br>
 
